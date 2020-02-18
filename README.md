@@ -7,7 +7,7 @@ A Python module to get random image/facts of different animals
 
 # Getting started
 
-**Installatio**
+**Installation**
 ```sh
 pip install animals.py
 ```
