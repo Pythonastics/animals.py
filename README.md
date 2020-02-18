@@ -1,5 +1,7 @@
 <div align="center">
   <img src="https://img.shields.io/pypi/v/animals.py" alt="pkg-version">
+  <img src="https://img.shields.io/pypi/wheel/animals.py">
+  
 </div>
 
 # animals.py
