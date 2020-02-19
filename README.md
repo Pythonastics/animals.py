@@ -13,13 +13,14 @@ A Python module to get random image/facts of different animals
 ```sh
 pip install animals.py
 ```
-**Example for usage**
+**Usage**
 ```py
 from animals import Animals
 
 animal = Animals('cat')
 
 print(animal.image()) # Prints the url for the image
+print(animal.fact()) # Prints the fact of the animal
 ```
 
 # Thanks to
